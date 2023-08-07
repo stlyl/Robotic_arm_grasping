@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "robotv3", "robotv3.vcxproj", "{E79237A6-0E8C-4AF6-88A3-56F9D4F9E82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79237A6-0E8C-4AF6-88A3-56F9D4F9E82F}.Debug|x64.ActiveCfg = Debug|x64
+		{E79237A6-0E8C-4AF6-88A3-56F9D4F9E82F}.Debug|x64.Build.0 = Debug|x64
+		{E79237A6-0E8C-4AF6-88A3-56F9D4F9E82F}.Release|x64.ActiveCfg = Release|x64
+		{E79237A6-0E8C-4AF6-88A3-56F9D4F9E82F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68538AD5-C582-4E89-865A-22E60B38604B}
+	EndGlobalSection
+EndGlobal
